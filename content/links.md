@@ -14,7 +14,6 @@ If you're looking for my CV, it's on my GitHub.
 
 If you're looking for my Contact information, it's on my CV.
 
-
 If you want to get in touch, email me.
 
 Please don't email me unless it's important. 
