@@ -35,10 +35,3 @@ ul {
 .info-page ul {
   margin-bottom: 2em;
 }
-
-@media (max-width: 600px) {
-  body {
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
