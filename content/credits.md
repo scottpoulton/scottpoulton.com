@@ -8,7 +8,7 @@ Attributing all actions and achievements to oneself is a mistake.
 
 * [Hugo](https://gohugo.io/) - Static site generator that builds and renders these pages.
 * [GitHub Pages](https://pages.github.com/) - Website Hosting.
-* [Google Workspace](https://workspace.google.com/) — Domain management.
+* [Google Workspace](https://workspace.google.com/) - Domain management.
 
 ## Special thanks to
 
