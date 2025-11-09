@@ -1,0 +1,27 @@
+{
+  "name": "scottpoulton.com",
+  "version": "1.0.0",
+  "description": "This site is a place for me to share a bit about myself, things I like, my contact links, and credits for the technology and themes powering the site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hugo",
+    "format": "prettier --write public/**/*.html public/**/*.css",
+    "build:pretty": "hugo && npm run format"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottpoulton/scottpoulton.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/scottpoulton/scottpoulton.com/issues"
+  },
+  "homepage": "https://github.com/scottpoulton/scottpoulton.com#readme",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
