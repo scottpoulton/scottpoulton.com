@@ -12,8 +12,7 @@ theme = "github.com/rhazdon/hugo-theme-hello-friend-ng"
   homeSubtitle = "welcome to my website"
 
 [minify]
-  disableXML = true
-  minifyOutput = false
+  disableHTML = true
 
 [params.logo]
   logoMark = "scottpoulton"
